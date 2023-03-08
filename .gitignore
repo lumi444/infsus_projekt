@@ -420,3 +420,12 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Spring Boot
+target/
+build/
+bin/
+logs/
+*.log
+*.tmp
+*.pid
